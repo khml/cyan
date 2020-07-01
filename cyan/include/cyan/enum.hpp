@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/18.
-//
+/**
+ * @file enum.hpp
+ * @brief Enum component
+ * @author KHML
+ */
 
 #ifndef CYAN_ENUM_BLOCK_HPP
 #define CYAN_ENUM_BLOCK_HPP

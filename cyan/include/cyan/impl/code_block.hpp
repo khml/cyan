@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/05/02.
-//
+/**
+ * @file code_block.hpp
+ * @brief impl CodeBlock template functions
+ * @author KHML
+ */
 
 #ifndef CYAN_IMPL_CODE_BLOCK_HPP
 #define CYAN_IMPL_CODE_BLOCK_HPP

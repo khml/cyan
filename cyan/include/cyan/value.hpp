@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/15.
-//
+/**
+ * @file value.hpp
+ * @brief include Values components
+ * @author KHML
+ */
 
 #ifndef CYAN_VALUE_HPP
 #define CYAN_VALUE_HPP

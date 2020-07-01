@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/05/03.
-//
+/**
+ * @file block.hpp
+ * @brief block component interface
+ * @author KHML
+ */
 
 #ifndef CYAN_BLOCK_HPP
 #define CYAN_BLOCK_HPP

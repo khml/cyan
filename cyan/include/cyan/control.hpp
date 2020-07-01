@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/25.
-//
+/**
+ * @file control.hpp
+ * @brief include control-flow components
+ * @author KHML
+ */
 
 #ifndef CYAN_CONTROL_HPP
 #define CYAN_CONTROL_HPP

@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/27.
-//
+/**
+ * @file namespace.hpp
+ * @brief NameSpace component
+ * @author KHML
+ */
 
 #ifndef CYAN_CONTAINER_NAMESPACE_HPP
 #define CYAN_CONTAINER_NAMESPACE_HPP
