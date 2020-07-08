@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/28.
-//
+/**
+ * @file module.hpp
+ * @brief include module components
+ * @author KHML
+ */
 
 #ifndef CYAN_MODULE_HPP
 #define CYAN_MODULE_HPP

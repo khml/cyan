@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/24.
-//
+/**
+ * @file while_control.hpp
+ * @brief While-Control component
+ * @author KHML
+ */
 
 #ifndef CYAN_CONTROL_WHILE_CONTROL_HPP
 #define CYAN_CONTROL_WHILE_CONTROL_HPP

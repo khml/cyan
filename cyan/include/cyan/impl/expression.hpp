@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/05/02.
-//
+/**
+ * @file expression.hpp
+ * @brief impl Expression template functions
+ * @author KHML
+ */
 
 #ifndef CYAN_IMPL_EXPRESSION_HPP
 #define CYAN_IMPL_EXPRESSION_HPP

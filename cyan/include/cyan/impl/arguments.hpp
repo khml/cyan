@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/05/02.
-//
+/**
+ * @file arguments.hpp
+ * @brief impl Arguments template functions
+ * @author KHML
+ */
 
 #ifndef CYAN_IMPL_VALUE_ARGUMENTS_HPP
 #define CYAN_IMPL_VALUE_ARGUMENTS_HPP

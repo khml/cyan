@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/05/03.
-//
+/**
+ * @file aggregate.hpp
+ * @brief impl Aggregate template functions
+ * @author KHML
+ */
 
 #ifndef CYAN_IMPL_VALUE_AGGREGATE_HPP
 #define CYAN_IMPL_VALUE_AGGREGATE_HPP

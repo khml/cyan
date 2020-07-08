@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/05/02.
-//
+/**
+ * @file utilities.hpp
+ * @brief utilities template functions
+ * @author KHML
+ */
 
 #ifndef CYAN_IMPL_UTILITIES_HPP
 #define CYAN_IMPL_UTILITIES_HPP

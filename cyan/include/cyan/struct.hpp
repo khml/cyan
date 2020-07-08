@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/19.
-//
+/**
+ * @file struct.hpp
+ * @brief Strcut component
+ * @author KHML
+ */
 
 #ifndef CYAN_STRUCT_BLOCK_HPP
 #define CYAN_STRUCT_BLOCK_HPP

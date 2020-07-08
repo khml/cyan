@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/23.
-//
+/**
+ * @file arguments.hpp
+ * @brief Arguments component
+ * @author KHML
+ */
 
 #ifndef CYAN_ARGUMENTS_HPP
 #define CYAN_ARGUMENTS_HPP

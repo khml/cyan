@@ -1,6 +1,8 @@
-//
-// Created by KHML on 2020/04/20.
-//
+/**
+ * @file if_control.hpp
+ * @brief IF-Control component
+ * @author KHML
+ */
 
 #ifndef CYAN_CONTROL_IF_CONTROL_HPP
 #define CYAN_CONTROL_IF_CONTROL_HPP
